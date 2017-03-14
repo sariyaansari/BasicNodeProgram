@@ -1,0 +1,14 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weather_callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sariya Ansari",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.60.0"
+  }
+}
